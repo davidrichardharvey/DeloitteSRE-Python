@@ -1,0 +1,10 @@
+{
+  "name": "Arachdog",
+  "legs": 8,
+  "sound_made": "Woof!",
+  "features": [
+    "Web Spinner",
+    "Strong Bite",
+    "Scent Tracking"
+  ]
+}
